@@ -1,0 +1,8 @@
+Prompt:
+"Create a 5-slide presentation on the topic: 'AI in Education'"
+
+Slide 1: Title Slide  
+Slide 2: Introduction to AI  
+Slide 3: AI Benefits in Learning  
+Slide 4: Real-world Examples  
+Slide 5: Future of AI in Classrooms
